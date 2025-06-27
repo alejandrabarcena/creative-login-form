@@ -22,6 +22,9 @@ Este proyecto es un formulario de login con diseño dividido, imagen decorativa 
 https://alejandrabarcena.github.io/creative-login-form/
 
 
+## 📸  Sitio web Vista previa
+🌐 [Sitio Web](https://alejandrabarcena.github.io/creative-login-form/)
+
 ## 🚀 Cómo usar
 
 1. Clona este repositorio:
