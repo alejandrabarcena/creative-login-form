@@ -18,7 +18,7 @@ Este proyecto es un formulario de login con diseño dividido, imagen decorativa 
 - Opciones de login social con Facebook, Google y Twitter
 
 ## 📸 Vista previa
-
+[📸](https://github.com/alejandrabarcena/creative-login-form/blob/main/vista%20previa.png)
 
 
 ## 🚀 Cómo usar
